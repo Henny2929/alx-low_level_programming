@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - Program tht prints various types
- * Return 0 (Success)
+ * main - Program that prints various types on the computer it is compiled on
+ * Return:always 0 (Success)
  */
 
 int main(void)
